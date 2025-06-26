@@ -1,9 +1,12 @@
-# Studio 🛠️
+# 📄 PDF Text Extractor
 
-**Studio** is a [brief description: e.g., "full-stack web application for managing creative workflows"]. Built with [tech stack: e.g., Node.js, Express, React, MongoDB].
+A fullstack web application that allows users to upload a PDF file, extract text content from each page on the backend, and display it cleanly on the frontend.
+
+## 🚀 Project Overview
+
+This project is built as part of a fullstack internship assignment. It demonstrates how to handle file uploads, perform server-side PDF processing, and send structured data back to a frontend for rendering.
 
 ---
-
 ## 🚀 Table of Contents
 
 - [Overview](#overview)  
